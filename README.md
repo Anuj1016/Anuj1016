@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, web development, and AI-driven technologies.
 - 🌱 I’m currently learning advanced ReactJS and building smart solutions for hackathons.
 - 💞️ I’m looking to collaborate on open-source projects related to smart city solutions and parking management systems.
-- 📫  You can reach me via email at agrawalanuj1610@gmail.com or on LinkedIn.
+- 📫  You can reach me via email at agrawalanuj1610@gmail.com or on LinkedIn(https://www.linkedin.com/in/anuj-agrawal-9276442b6.)
 - 😄 Pronouns:  he / his/him
 - ⚡ Fun fact: I'm passionate about finding creative solutions to everyday tech challenges.
 
